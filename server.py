@@ -1,5 +1,8 @@
+# Vinicius Montuani, Vitor Gaspar, Vitor Augusto, Luiz Leite
+
 from flask import Flask, request, jsonify
 import sqlite3
+
 from datetime import datetime
 
 app = Flask(__name__)

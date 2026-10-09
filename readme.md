@@ -1,6 +1,7 @@
 # Perícia Forense Digital — EstufaSmart
 
 ### SENAI Dev Experience | Módulo B — IoT e Cibersegurança
+# Vinicius Montuani, Vitor Gaspar, Vitor Augusto, Luiz Leite
 
 ## Sobre o Projeto
 
